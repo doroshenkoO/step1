@@ -10,6 +10,8 @@ namespace ConsoleApplication2
 	{
 		static void Main(string[] args)
 		{
+			Point3D point = new Point3D(4, 5, 6);
+			Console.WriteLine(point);
 		}
 	}
 }
